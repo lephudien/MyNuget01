@@ -24,7 +24,7 @@ namespace IndSoftTestNuget01
 
     public CheckMFAResponse GetResponse()
     {
-      string sFileContent = "{\"AuthorizationStatus\":\"Invalid123abc456\",\"CustomId\":\"\"}";
+      string sFileContent = "{\"AuthorizationStatus\":\"Invalid123abc456def\",\"CustomId\":\"\"}";
 
       //var serializer = new Newtonsoft.Json.Serialization.j
       var test = Newtonsoft.Json.JsonConvert.DeserializeObject<CheckMFAResponse>(
