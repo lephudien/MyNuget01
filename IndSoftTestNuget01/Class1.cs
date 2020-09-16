@@ -23,7 +23,7 @@ namespace IndSoftTestNuget01
 
     public static string GetMyVersion()
     {
-      return "MyNuggetVer=1.3.5.29";
+      return "MyNuggetVer=1.3.5.30";
     }
 
 
