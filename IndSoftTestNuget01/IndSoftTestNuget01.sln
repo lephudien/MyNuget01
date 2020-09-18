@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndSoftTestNuget01", "IndSoftTestNuget01.csproj", "{FE54BF39-91E0-484B-BC26-76C3660F54DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNuget01b", "..\TestNuget01b\TestNuget01b.csproj", "{334E9045-5591-490C-A239-0CA217B4AF30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndSoftTestNuget01b", "..\TestNuget01b\IndSoftTestNuget01b.csproj", "{334E9045-5591-490C-A239-0CA217B4AF30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
