@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndSoftTestNuget01", "IndSoftTestNuget01.csproj", "{FE54BF39-91E0-484B-BC26-76C3660F54DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndSoftTestNuget01b", "..\TestNuget01b\IndSoftTestNuget01b.csproj", "{334E9045-5591-490C-A239-0CA217B4AF30}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{FE54BF39-91E0-484B-BC26-76C3660F54DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE54BF39-91E0-484B-BC26-76C3660F54DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE54BF39-91E0-484B-BC26-76C3660F54DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{334E9045-5591-490C-A239-0CA217B4AF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{334E9045-5591-490C-A239-0CA217B4AF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{334E9045-5591-490C-A239-0CA217B4AF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{334E9045-5591-490C-A239-0CA217B4AF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
