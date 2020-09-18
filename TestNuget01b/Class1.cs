@@ -10,7 +10,7 @@ namespace TestNuget01b
   {
     public static string GetMyVersion()
     {
-      return "MyNugget01bVer=1.3.5.37";
+      return "MyNugget01bVer=1.3.5.41";
     }
   }
 }
